@@ -1,0 +1,5 @@
+# ES2022 - 實作1: Welcome: GitHub入門, Tinker CAD, digitalWrite(), LED亮滅 (2W) 
+
+## 1-1 在TinkerCAD開一個新的Circuit, 加上一個外部的LED, 並且ON (亮) 0.5秒, OFF(滅) 0.5秒, (互動1)
+
+![image](https://user-images.githubusercontent.com/100506178/187060634-b6e1ee89-255e-4d70-b4ae-159229993793.png)
